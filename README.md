@@ -1,4 +1,4 @@
-# MyLibrary 📚 - Proyecto Final de Modulo :RAUL MARTINEZ AGUANTA
+# Proyecto Final de Modulo :RAUL MARTINEZ AGUANTA
 
  
 > **Proyecto  de la Universidad del Valle: DIPLOMADO PROGRAMACION Y DESARROLO MOVIL
@@ -12,7 +12,7 @@
 - **Firebase Emulator Suite**: Desarrollo local sin costos
 - **Arquitectura móvil**: Patrones modernos en React Native
 
-## 🏗Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```
 MyLibrary/
